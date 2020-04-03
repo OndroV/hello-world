@@ -2,6 +2,7 @@
 tutorial repository
 
 #Description of my taxonomy assignment workflow. If you feel like getting some inspiration, great! Otherwise, no need to waste time with this incomplete description :D
+
 I just had inspiration to write and share this bit now. When I have time, I'll review the scripts, write a full description and share :)
 
 My merging script used your Bold-wh + gbif + ncbi's annotated HitTable. Blasting happens on the database websites. Only the Ncbi annotation is computed locally by https://github.com/Gurdhhu/bioinf_scripts/blob/master/annotate_blast_hits.py
